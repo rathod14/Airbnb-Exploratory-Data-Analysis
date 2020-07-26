@@ -1,5 +1,5 @@
 # Airbnb-Exploratory-Data-Analysis
-In this project, we have analysed the Airbnb houses in Amsterdam using the Airbnb public data.
+In this project, I have analysed the Airbnb houses in Amsterdam using the Airbnb public data.
 
 ## Motivation
 Airbnb renting has always been interesting. Some spots can be rented in higher prices, whereas others can only be rented in very low prices. Suppose you would like to be a host in Amsterdam - in order to be a successful one, it is a good idea to investigate the host listing data from airbnb and see what are the major factors that influence the room prices. In this project, we are going to do this job for those who want to be a successful host!
